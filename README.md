@@ -1,0 +1,2 @@
+# PasswordGen
+First Javascript assignment 
